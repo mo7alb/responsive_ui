@@ -12,10 +12,10 @@ To run this demo application, the only requirement is Node JS
 
 1. Clone the github repository and navigate to directory
 
-  ```bash
-  git clone https://github.com/mo7alb/responsive_ui.git
-  cd responsive_ui
-  ```
+    ```bash
+    git clone https://github.com/mo7alb/responsive_ui.git
+    cd responsive_ui
+    ```
 
 2. Install dependencies
 
